@@ -1,0 +1,1 @@
+For this project I wanted to try utilizing only HTML and Bootstrap, with as little CSS styling as possible.
