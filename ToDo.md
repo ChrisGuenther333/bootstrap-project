@@ -1,5 +1,2 @@
-Center align everything
-Change font size
-Make sure everything is responsive
+Get nav to center align with text
 Add hover/click
-row-xs not working in nav section
